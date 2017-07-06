@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">2048</string>
+    <string name="greating">Welcome!</string>
+    <string name="f4x4">4x4</string>
+    <string name="f5x5">5x5</string>
+    <string name="f6x6">6x6</string>
+    <string name="f8x8">8x8</string>
+    <string name="play">PLAY</string>
+    <string name="title_activity_play">PlayActivity</string>
+    <string name="record">Record</string>
+    <string name="score">Score</string>
+    <string name="registration">Please enter following information</string>
+    <string name="login">login*</string>
+    <string name="email">e-mail*</string>
+    <string name="number">number</string>
+    <string name="nimses">nimses</string>
+    <string name="password">password*</string>
+    <string name="register">Register</string>
+
+
+
+</resources>
